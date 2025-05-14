@@ -15,11 +15,12 @@ pip install torch torchvision torchaudio
 pip install matplotlib scikit-learn pandas flask flask-cors pillow
 ```
 
-[Download the AI model with this link](https://drive.google.com/file/d/17mY2A6YePYUDcM1asu5xpU_sfbwHHFYX/view?usp=sharing)
+### 2. Download the Model
+Click [here](https://drive.google.com/file/d/17mY2A6YePYUDcM1asu5xpU_sfbwHHFYX/view?usp=sharing) and download the AI model.
 
-Then put the model into the ../BirdSpeciesIdentifer directory.
+Then put the model file into the ../BirdSpeciesIdentifer directory.
 
-### 2. Launch the Application
+### 3. Launch the Application
 
 Navigate to the `Project` directory:
 
