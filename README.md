@@ -18,14 +18,17 @@ pip install matplotlib scikit-learn pandas flask flask-cors pillow
 ### 2. Download the Model
 Click [here](https://drive.google.com/file/d/17mY2A6YePYUDcM1asu5xpU_sfbwHHFYX/view?usp=sharing) and download the AI model.
 
-Then put the model file into the ../BirdSpeciesIdentifer directory.
+Then place the model file into:
+```bash
+../BirdSpeciesIdentifer
+```
 
 ### 3. Launch the Application
 
-Navigate to the `Project` directory:
+Navigate to the `BirdSpeciesIdentifier` directory:
 
 ```bash
-cd ../BirdSpeciesIdentifier/Project
+cd ../BirdSpeciesIdentifier
 ```
 
 Then run the application:
@@ -72,7 +75,7 @@ Sample images from the 200 bird species are provided under the directory:
   To use this, you must download the dataset and place it in:
 
   ```
-  ../BirdSpeciesIdentifier/Project
+  ../BirdSpeciesIdentifier
   ```
 
 - **`Train.py`**  
@@ -80,7 +83,7 @@ Sample images from the 200 bird species are provided under the directory:
   Also requires the dataset to be downloaded and added to:
 
   ```
-  ../BirdSpeciesIdentifier/Project
+  ../BirdSpeciesIdentifier
   ```
 
 ---
